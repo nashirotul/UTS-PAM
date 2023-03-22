@@ -5,7 +5,7 @@ mempermudah seseorang untuk mengingat kegiatan yang telah direncanakan sebelumny
 <h2>Daftar Package</h2>
 Daftar package yang digunakan dalam membuat aplikasi ini adalah expo ~46.0.16, expo-status-bar ~1.4.0,react-native-screens ~3.15.0 
 
-<h2>Cara Menjalankan AAplikasi</h2>
+<h2>Cara Menjalankan Aplikasi</h2>
 Langkah pertama yaitu membuat catatan pada "write a note" setelah membuat catatatn klik tombol "take notes", jika user ingin melihat semua catatan maka klik "all notes" maka akan muncul semua catatan yang telah dibuat, jika user inging menghapus catatan, user cukup klik catatan mana yang akan akan di hapus kemudis klik hapus atau delete
 
 
