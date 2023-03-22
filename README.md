@@ -11,4 +11,4 @@ mempermudah seseorang untuk mengingat kegiatan yang telah direncanakan sebelumny
 
 <h2>Cara menginstall aplikasi (dalam mode pengembangan)</h2>
 untuk menginstall dalam apk dapat dengan klik link dibawah ini
-<br><a href="">link download apk Daylist</a></br>
+<br><a href="">link download apk TodaysNotes</a></br>
